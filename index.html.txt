@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>TCL TruckersMP Cash League</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>TCL TruckersMP Cash League</h1>
+
+<h2>Drive • Compete • Win Real Cash</h2>
+
+<p>Season Starts: 1 August 2026</p>
+
+<p>Entry Fee: R25</p>
+
+<button>Register Now</button>
+
+<button>View Leaderboard</button>
+
+<script src="script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,4 @@
+| Rank | Driver    | Points | Deliveries | Distance  |
+| ---- | --------- | ------ | ---------- | --------- |
+| 1    | Driver001 | 800    | 50         | 15,000 km |
+| 2    | Driver002 | 780    | 48         | 14,700 km |
